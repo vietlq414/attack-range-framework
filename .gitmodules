@@ -1,0 +1,12 @@
+[submodule "attack_range"]
+	path = attack_range
+	url = https://github.com/splunk/attack_range
+[submodule "aws-cyber-range"]
+	path = aws-cyber-range
+	url = https://github.com/secdevops-cuse/CyberRange
+[submodule "spl-cyber-range"]
+	path = spl-cyber-range
+	url = https://github.com/splunk/attack_range
+[submodule "hunting-vulnerability"]
+	path = hunting-vulnerability
+	url = https://github.com/KathanP19/HowToHunt
