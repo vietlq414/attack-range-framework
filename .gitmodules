@@ -10,3 +10,5 @@
 [submodule "hunting-vulnerability"]
 	path = hunting-vulnerability
 	url = https://github.com/KathanP19/HowToHunt
+[submodule "spl-cyber-range-local"]
+	path = spl-cyber-range-local
